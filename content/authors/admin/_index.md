@@ -31,25 +31,24 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gabriela.chosco@mi.unc.edu.ar'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/rsgargentina
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/rsg_arg/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rsg-argentina
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/iscb-sc-rsg-argentina-053599214/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programación Web
+  - Bioinformática
 
 education:
   - area: PhD Artificial Intelligence
