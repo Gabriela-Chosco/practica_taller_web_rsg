@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Programación Web
-  - Bioinformática
+  - Bioinformáticabo
 
 education:
   - area: PhD Artificial Intelligence
